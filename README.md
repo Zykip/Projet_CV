@@ -37,3 +37,7 @@ Animer notre CV est une étape importante pour l’expérience utilisateur. Il e
 ![](https://raw.githubusercontent.com/Zykip/Projet_CV/master/Merise.png)
 
 # JAVASCRIPT
+
+- Ajout Google Analytics
+- Ajout du Smooth Scroll
+- Mise en place de librairies d'animations 2D et 3D pour utilisation ultérieure
